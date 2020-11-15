@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hey, I'm Karolis Šarapnickis 👋
+
+> /ˈkarolɪs ʃarapnətskɪs/
+
+[![img](https://img.shields.io/badge/-@karolis__sh-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp)](https://twitter.com/karolis_sh)
+
 
 <!--
 **karolis-sh/karolis-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
