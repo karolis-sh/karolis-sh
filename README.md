@@ -8,3 +8,6 @@
 [![linkedin](http://img.shields.io/badge/-Karolis_%C5%A0arapnickis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karolis-%C5%A1arapnickis/)
 
 I guess I like building things with JavaScript 🤷‍♂️
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolis-sh&layout=compact&exclude_repo=_archive&langs_count=6)](https://github.com/karolis-sh/)
+[![Karolis's github stats](https://github-readme-stats.vercel.app/api?username=karolis-sh&show_icons=true&hide_title=true)](https://github.com/karolis-sh/)
