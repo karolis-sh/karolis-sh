@@ -1,6 +1,6 @@
 # Hey, I'm Karolis Šarapnickis 👋
 
-> /ˈkarolɪs ʃarapnətskɪs/ [👂](http://ipa-reader.xyz/?text=%CB%88karol%C9%AAs%20%CA%83arapn%C9%99tsk%C9%AAs)
+> [🔈](http://ipa-reader.xyz/?text=%CB%88karol%C9%AAs%20%CA%83arapn%C9%99tsk%C9%AAs) /ˈkarolɪs ʃarapnətskɪs/
 
 [![homepage](https://img.shields.io/badge/-karolis.sh-37b2ab?style=flat&logo=Google-Chrome&logoColor=white)](https://karolis.sh/)
 [![gmail](https://img.shields.io/badge/-pastas.k-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pastas.k@gmail.com)
